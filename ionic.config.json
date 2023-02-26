@@ -1,0 +1,7 @@
+{
+  "name": "ch-feedback-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
