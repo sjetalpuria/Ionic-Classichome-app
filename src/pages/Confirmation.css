@@ -1,0 +1,36 @@
+#check-mark
+{ 
+    width: 20%;
+    height:auto;
+    
+}
+
+.flex
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+   
+}
+.container-success
+{
+    color:var(--ion-color-success);
+    background-color: var(--ion-color-success-tint);
+    width:auto;
+    height: auto;
+    margin:10px;
+    padding: 15px;
+    border-radius: 6px;
+    margin-top: 20px;
+    
+}
+
+#container_bg
+{
+    background-color: var(--ion-color-tertiary) !important;
+    border: none;
+    border-radius: 6px;  
+    margin-left: 20px;
+    margin-right: 20px;  
+    margin-top:65% !important;
+}

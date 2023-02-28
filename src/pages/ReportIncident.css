@@ -1,0 +1,32 @@
+.res_container
+{
+margin:15px;
+padding: 10px;
+}
+ion-checkbox
+{
+    background-color: var(--ion-color-tertiary);
+    border: 2px var(--ion-color-primary) solid;
+    border-radius: 6px;
+}
+
+h3
+{
+    font-family:NexaBold !important;
+    font-style: normal !important;
+    font-weight: 700;
+    color:  var(--ion-color-primary);
+    
+}
+.nunito span{
+    font-family: NunitoReg !important;
+    font-weight: 100;
+}
+.submit
+{
+    margin-top: 80px;
+}
+.logo-size
+{
+    width: 60%;
+}

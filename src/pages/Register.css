@@ -1,0 +1,14 @@
+.res_container
+{
+  border: 1px #0D4B5F solid;
+  border-radius: 6px;  
+  margin-left: 20px;
+  margin-right: 20px;  
+  margin-top: 10% !important;
+  margin-bottom: auto;
+  
+}
+.margin-top
+{
+  margin-top: 30px;
+}
